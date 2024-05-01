@@ -1,0 +1,13 @@
+{
+    "appId": "NourishMe",
+    "masterKey": "pXd)#,*dv,JXCv@3Unw;R&y[$N#gWpmn",
+    "masterKeyIps": ["127.0.0.1", "5.177.138.79", "5.46.42.83"],
+    "databaseURI": "mongodb://localhost/NourishMe",
+    // "cloud": "./node_modules/crossword-server-cloudcode/index.js",
+    "enableAnonymousUsers": false,
+    "allowClientClassCreation": false,
+    "mountPath": "/",
+    "port": "9001",
+    "serverURL": "http://localhost:9001",
+    "publicServerURL": "http://localhost:9001"
+}

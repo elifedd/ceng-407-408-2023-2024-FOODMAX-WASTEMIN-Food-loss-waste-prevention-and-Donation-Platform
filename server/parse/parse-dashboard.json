@@ -1,0 +1,17 @@
+{
+    "apps": [
+        {
+            "serverURL": "http://localhost:9001",
+            "appId": "NourishMe",
+            "masterKey": "pXd)#,*dv,JXCv@3Unw;R&y[$N#gWpmn",
+            "appName": "NourishMe"
+        }
+    ],
+    "users": [
+        {
+            "user":"nourishme",
+            "pass":"$2a$10$Vl4tA8Krv6Z/8vaE7mBn9uL7zY/JHoX4PI/DiX2HDVzFbmYi9rA8W"
+        }
+    ],
+    "useEncryptedPasswords": "true"
+}
